@@ -1,0 +1,13 @@
+/*header goes here*/
+div.DnavLeft {float:left;padding:4px;color:#FFC000;}
+div.Dnavmiddle {margin:0 auto;color:#8993A0;padding:4px;text-align:center;}
+div.DnavRight {display:inline-block;float:right;color:#FFC000;padding:2px;text-align:right;}
+div.container{background-color:black;}
+/*banner goes here*/
+div.Dbanner{background-color:azure;}
+/*logo goes here*/
+div.Dlogo{background-color:#D30000;}
+.navbar-border{border-top:1px dashed white;width:100%;padding:10px;}
+.navbar-header a{color: black;font-size:16px;}
+.Dmarquee{color:white;padding:0px;margin-left:0px;}
+.Dmarquee ul li{display:inline;text-decoration: double;}
